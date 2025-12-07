@@ -1,0 +1,18 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+*.DS_Store
+
+# Backend (Java/Spring Boot)
+backend/target/
+backend/*.log
+backend/*.db
+backend/*.mv.db
+backend/*.trace.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
